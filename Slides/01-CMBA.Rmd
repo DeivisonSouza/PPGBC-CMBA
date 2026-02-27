@@ -140,9 +140,88 @@ background-size: 100px, cover
 ]
 
 ---
-#
+layout: true
+background-image: url(fig/PPGBC.png), url(fig/LMFTCA.png), url(fig/cont.png)
+background-position: 95% 80%, 90% 20%
+background-size: 300px, 300px, cover
+---
+
+<!-- Slide XX -->
+---
+class: inverse
+layout: false
+background-image: url(fig/PPGBC.png), url(fig/sec.png)
+background-position: 99% 90%
+background-size: 300px, cover
+
+## 👩🏻‍🏫 .font60[**CORPO DOCENTE <br> Linhas 2: Conservação e Manejo da Biodiversidade Amazônica**]
+### .font90[*Atuação científica em conservação e manejo sustentável <br> da biodiversidade amazônica*]
+
+---
+layout: true
+background-image: url(fig/PPGBC.png), url(fig/cont.png)
+background-position: 99% 95%
+background-size: 200px, cover
+---
+## 👩🏻‍🏫 Corpo Docente - Linha 2 (CMBA)
+
+```{r , echo=FALSE, fig.show='hold', out.width='80%', fig.align='center'}
+knitr::include_graphics('fig/docentes.png')
+```
+
+---
+## 👩🏻‍🏫 Corpo Docente - Linha 2 (CMBA)
+
+.pull-left-17[
+```{r , echo=FALSE, fig.show='hold', out.width='70%', fig.align='center'}
+knitr::include_graphics('fig/foto/Diva.jpg')
+```
+.center[**Diva Anelie de Araújo Guimaraes**]
+.center[Instituto de Ciências Biológicas/UFPA/Belém]
+]
+
+.pull-left-17[
+.shadow1[
+.font70[
+#### 🎓 **Formação Acadêmica**
+- Graduação em Biomedicina - UFPA (1988)
+- Mestrado em Zoologia - UFPA (1993) 
+- Doutorado em Ciências Biológicas - UFPA (2000)
+- Pós-Doutorado em Reprodução Animal - UAB (2008)
+]
+]
+]
+
+--
+
+.pull-left-17[
+.shadow1[
+.font70[
+#### 🔍 **Área(s) de Atuação**
+- Manejo e uso de fauna silvestre.
+]
+]
+]
+
+--
+
+.pull-left-17[
+.shadow1[
+.font70[
+#### 📚 **Disciplina(s) no PPGBC**
+- XXXXXXXXXXXXXXX
+]
+]
+]
+
+---
+## 👩🏻‍🏫 Corpo Docente - Linha 2 (CMBA)
 
 
+
+```{r , echo=FALSE, fig.show='hold', out.width='25%', fig.align='center'}
+knitr::include_graphics('fig/foto/Evandro.jpg')
+```
 
 ---
 layout: true
@@ -192,6 +271,7 @@ background-size: 400px, cover
 ```{r ufpa, echo=FALSE, fig.show='hold', out.width='70%', fig.align='center'}
 knitr::include_graphics('fig/ufpa.png')
 ```
+
 ]
 
 .pull-right-11[
