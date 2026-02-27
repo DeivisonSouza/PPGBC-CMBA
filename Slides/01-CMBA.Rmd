@@ -1,7 +1,6 @@
 ---
-title: "Projeto DeepFlora - Inteligência Artificial para Reconhecer Espécies Madeireiras da Amazônia Brasileira"
-#title: "DeepFlora - Artificial Intelligence for Recognising Timber Species in the Brazilian Amazon"
-subtitle: "Técnicas, Aplicações"
+title: "Linhas 2: Conservação e Manejo da Biodiversidade Amazônica"
+subtitle: ""
 author: "Prof. Dr. Deivison Venicio Souza"
 institute: "Universidade Federal do Pará (UFPA)"
 date: 
@@ -27,9 +26,9 @@ output:
         scroll: false
 ---
 class: title-slide, center, middle
-background-image: url(fig/LMFTCA.png), url(fig/ufpa.png), url(fig/PPGBC.png), url(fig/PPGCTIF.PNG), url(fig/deepflora.png), url(fig/title.jpg)
-background-position: 90% 5%, 10% 5%, 10% 90%, 90% 90%, 50% 25%
-background-size: 130px, 110px, 150px, 130px, 500px, cover
+background-image: url(fig/LMFTCA.png), url(fig/ufpa.png), url(fig/PPGBC.png), url(fig/title.jpg)
+background-position: 90% 5%, 10% 5%, 50% 35%
+background-size: 150px, 130px, 300px, cover
      
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
@@ -77,15 +76,15 @@ use_clipboard()
 
 <!-- title-slide -->
 <br>
-##### Universidade Federal do Pará (UFPA)
+##### Universidade Federal do Pará
+##### Campus Universitário de Altamira
 ##### Faculdade de Engenharia Florestal
 ##### Laboratório de Manejo Florestal, Tecnologias e Comunidades Amazônicas
-##### Programa de Pós-Graduação em Biodiversidade e Conservação (PPGBC)/UFPA
-##### Programa de Pós-Graduação em Ciência, Tecnologia e Inovação Florestal (PPGCTIF)/UFOPA
+##### Programa de Pós-Graduação em Biodiversidade e Conservação
 
 <br><br><br>
 
-## DeepFlora - Inteligência Artificial para Reconhecer Espécies Madeireiras da Amazônia Brasileira
+## Linhas 2 - Conservação e Manejo da Biodiversidade Amazônica
 
 <br>
 
@@ -97,7 +96,7 @@ use_clipboard()
 ##### 👨🏻‍👩🏻‍👦🏻‍👦🏻 [@lmftca_ufpa](https://www.instagram.com/lmftca_ufpa/)
 ##### 🌎 [https://www.lmftca.com.br/](https://www.lmftca.com.br/)
 <br>
-##### 1ª versão: 07/outubro/2025 <br> (Atualizado em: `r format(Sys.Date(),"%d/%B/%Y")`) <br> Altamira, Pará
+##### 1ª versão: 27/fevereiro/2025 <br> (Atualizado em: `r format(Sys.Date(),"%d/%B/%Y")`) <br> Altamira, Pará
 
 ---
 layout: true
