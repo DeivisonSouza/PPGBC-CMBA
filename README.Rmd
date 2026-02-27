@@ -71,11 +71,11 @@ list_github_files <- function(repo, dir = NULL, ext = NULL) {
 
 # Descrição
 
-Este repositório guarda os arquivos (.Rmd, .R, .html) usados na conversa de recepção aos novos discentes do Programa de Pós-Graduação em Biodiversidade e Conservação (PPGBC)/UFPA/Campus Altamira, cujo objetivo foi apresentar a **Linha 2 -  Conservação e Manejo da Biodiversidade Amazônica**, e seus respectivos docentes e linhas de pesquisa.
+Este repositório reúne os arquivos (.Rmd, .R e .html) utilizados na atividade de recepção dos novos discentes do Mestrado Acadêmico do **Programa de Pós-Graduação em Biodiversidade e Conservação (PPGBC)** da Universidade Federal do Pará – Campus Altamira. A atividade teve como objetivo apresentar a **Linha 2 – Conservação e Manejo da Biodiversidade Amazônica**, bem como seus respectivos docentes e eixos de pesquisa, contextualizando as abordagens científicas, metodológicas e temáticas desenvolvidas no âmbito do programa.
 
 # Slide da palestra
 
-O slide da palestra síncrona intitulada **"Linha 2 -  Conservação e Manejo da Biodiversidade Amazônica"** está disponível a seguir.
+O slide da apresentação intitulada **"Linha 2 -  Conservação e Manejo da Biodiversidade Amazônica"** está disponível a seguir.
 
 ```{r, echo = FALSE}
 knitr::kable(

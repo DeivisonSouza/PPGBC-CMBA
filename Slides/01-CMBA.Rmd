@@ -106,9 +106,9 @@ background-size: 100px, cover
 
 ---
 layout: true
-background-image: url(fig/deepflora.png), url(fig/LMFTCA.png), url(fig/cont.png)
-background-position: 95% 80%, 80% 20%
-background-size: 600px, 300px, cover
+background-image: url(fig/PPGBC2.png), url(fig/LMFTCA.png), url(fig/cont.png)
+background-position: 95% 80%, 90% 20%
+background-size: 300px, 300px, cover
 ---
 ## 📙 Conteúdo
 <br>
