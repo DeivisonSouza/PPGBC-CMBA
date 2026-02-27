@@ -103,42 +103,48 @@ layout: true
 background-image:  url(fig/LMFTCA.png), url(fig/cont.png)
 background-position: 99% 94%
 background-size: 100px, cover
+---
+## 🔍 .font70[Linhas 2 - Conservação e Manejo da Biodiversidade Amazônica]
+
+.shadow1[
+#### 🔍 **Qual foco da linha?**
+]
+
+.shadow2[
+ 🤔 **Foco**: Estudo das dinâmicas e estratégias para a conservação e o uso sustentável da diversidade biológica.
+]
+
+---
+## 🔍 .font70[Linhas 2 - Conservação e Manejo da Biodiversidade Amazônica]
+
+.shadow1[
+#### 🔍 **Qual foco da linha?**
+]
+
+**Aplicações (Exemplos)**: 
+
+.font80[
+👉 Estudo da estrutura, composição e funcionamento dos ecossistemas amazônicos;
+
+👉 Estudo das dinâmicas ecológicas (sucessão, interações entre espécies, fluxo gênico) e dos impactos antrópicos (desmatamento, fragmentação, mudanças climáticas);
+
+👉 Diagnóstico das ameaças à biodiversidade, como superexploração de recursos, poluição e espécies invasoras;
+
+👉 Integração do conhecimento científico com o saber tradicional (povos originários e comunidades tradicionais);
+
+👉 Estudo de cadeias produtivas da sociobiodiversidade (açaí, castanha-do-brasil, óleos vegetais (copaíba, andiroba), artesanato em fibras e sementes, outros);
+
+👉 Valoração dos serviços ecossistêmicos e instrumentos econômicos para conservação, como mercados de crédito de carbono; e
+
+👉 Estudos e desenvolvimento de tecnologias inovadoras para manejo e conservação da biodiversidade (Inteligência Artificial).
+]
 
 ---
 layout: true
-background-image: url(fig/PPGBC2.png), url(fig/LMFTCA.png), url(fig/cont.png)
+background-image: url(fig/PPGBC.png), url(fig/LMFTCA.png), url(fig/cont.png)
 background-position: 95% 80%, 90% 20%
 background-size: 300px, 300px, cover
 ---
-## 📙 Conteúdo
-<br>
-
-.pull-top[
-👉 **Projeto DeepFlora e Outras Iniciativas**
-.font80[
-
-[1 - Projeto DeepFlora](#mot)
-
-[2 - Instituições Parceiras e Financiador](#ins)
-
-[3 - Motivação](#mot)
-
-[4 - Áreas de Coleta](#ac)
-
-[5 - Variáveis coletadas](#ac)
-
-[6 - Imagens de Partes da Planta](#img)
-
-[7 - Identificação de Espécies](#ide)
-
-[8 - Amazon Bark Dataset](#abd)
-
-[9 - DeepBark - Aplicação Web](#dee)
-
-[10 - Outras Iniciativas](#dee)
-
-]
-]
 
 <!-- Slide XX -->
 ---
