@@ -466,6 +466,26 @@ knitr::include_graphics('fig/paper.png')
 ]
 
 ---
+layout: true
+background-image: url(fig/deepflora2.png), url(fig/cont.png)
+background-position: 98% 50%
+background-size: 200px, cover
+---
+## 📷 Amazon Bark Dataset
+
+.pull-left-11[
+```{r, echo=FALSE, out.width='79%', fig.align='center', fig.cap=''}
+knitr::include_graphics('fig/bark.jpg')
+```
+]
+
+.pull-left-11[
+```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap=''}
+knitr::include_graphics('fig/esp.png')
+```
+]
+
+---
 ## 🌳 DeepBark - Aplicação Web (Funcionamento)
 
 .center[
