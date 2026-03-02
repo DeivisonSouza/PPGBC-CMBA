@@ -550,7 +550,8 @@ slides > slide {
   /* ↓ reduz a altura da caixa */
   padding: 3px 5px;
 
-  text-align: justify;
+  /*text-align: justify;*/
+  text-align: left;
   text-justify: inter-word;
 
   font-size: 23px;

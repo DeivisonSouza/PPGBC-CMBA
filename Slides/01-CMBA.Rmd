@@ -211,7 +211,7 @@ knitr::include_graphics('fig/foto/Diva.jpg')
 .shadow1[
 .font70[
 #### 📚 **Disciplina(s) no PPGBC**
-- XXXXXXXXXXXXXXX
+- Manejo e Uso da Fauna Silvestre (.blue[**45h/3 créditos**])
 ]
 ]
 ]
@@ -259,7 +259,8 @@ knitr::include_graphics('fig/foto/Emil.jpg')
 .shadow1[
 .font70[
 #### 📚 **Disciplina(s) no PPGBC**
-- XXXXXXXXXXXXXXX
+- Biologia da Conservação (.blue[**60h/4 créditos**])/(**Disciplina compartilhada**)
+- Genética da Conservação (.blue[**45h/3 créditos**])
 ]
 ]
 ]
@@ -306,7 +307,7 @@ knitr::include_graphics('fig/foto/Evandro.jpg')
 .shadow1[
 .font70[
 #### 📚 **Disciplina(s) no PPGBC**
-- XXXXXXXXXXXXXXX
+- Metodologia Científica - (.blue[**60h/4 créditos**])/(**Disciplina compartilhada**)
 ]
 ]
 ]
@@ -353,7 +354,8 @@ knitr::include_graphics('fig/foto/Rairys.png')
 .shadow1[
 .font70[
 #### 📚 **Disciplina(s) no PPGBC**
-- XXXXXXXXXXXXXXX
+- Conservação de Germoplasma Vegetal *In Vitro* - (.blue[**45h/3 créditos**])
+- Ecofisiologia Vegetal - (.blue[**45h/3 créditos**])
 ]
 ]
 ]
@@ -400,7 +402,7 @@ knitr::include_graphics('fig/foto/Tommaso.jpg')
 .shadow1[
 .font70[
 #### 📚 **Disciplina(s) no PPGBC**
-- XXXXXXXXXXXXXXX
+- Ecologia e Taxonomia de Comunidades Aquáticas - (.blue[**60h/4 créditos**])/(**Disciplina compartilhada**)
 ]
 ]
 ]
@@ -416,6 +418,8 @@ knitr::include_graphics('fig/foto/Deivison.jpeg')
 .center[.blue[**Deivison Venicio Souza**]]
 .center[Faculdade de Engenharia Florestal/UFPA/Altamira]
 .center[[Currículo Lattes](http://lattes.cnpq.br/9063094443073532)]
+<br>
+.center[🔍 .font90[.orange[**Laboratório de Manejo Florestal, Tecnologias e Comunidades Amazônicas - LMFTCA**]]]
 ]
 ]
 
@@ -449,8 +453,8 @@ knitr::include_graphics('fig/foto/Deivison.jpeg')
 .shadow1[
 .font70[
 #### 📚 **Disciplina(s) no PPGBC**
-- Estatística Computacional
-- Inteligência Artificial Aplicada à Biodiversidade
+- Estatística Computacional (.blue[**60h/4 créditos**])
+- Inteligência Artificial Aplicada à Biodiversidade (.blue[**45h/3 créditos**])
 ]
 ]
 ]
@@ -458,6 +462,7 @@ knitr::include_graphics('fig/foto/Deivison.jpeg')
 ---
 ## 🔬 Projetos de Pesquisa - Linha 2 (CMBA)
 
+.pull-left-17[
 .shadow1[
 .font90[
 #### 🎓 **Deivison Venicio Souza**
@@ -466,33 +471,44 @@ knitr::include_graphics('fig/foto/Deivison.jpeg')
 - INCT 3 - Madeiras da Amazônia (**Integrante/INPA**)
 ]
 ]
+]
 
+.pull-left-17[
+```{r , echo=FALSE, fig.show='hold', out.width='80%', fig.align='center'}
+knitr::include_graphics('fig/mosaico.png')
+```
 
-
+]
 
 ---
 ## 🌐 Rede(s) Social(is) e Site
 
 <br>
 
-.pull-left-17[
-.center[.font90[.blue[🔍 **Laboratório de Manejo Florestal, Tecnologias e Comunidades Amazônicas - LMFTCA**]]]
+🔍 .font90[.blue[**Laboratório de Manejo Florestal, Tecnologias e Comunidades Amazônicas - LMFTCA**]]
 
+🫱 .font90[**Coordenador**: Deivison Venicio Souza]
+
+
+.pull-left-17[
 ```{r , echo=FALSE, fig.show='hold', out.width='90%', fig.align='center'}
 knitr::include_graphics('fig/Site.png')
 ```
 .center[.font80[**Acesse o site**: 🌎 [https://www.lmftca.com.br/](https://www.lmftca.com.br/)
-
-**Coordenador**: Deivison Venicio Souza
 ]
 ]
 ]
 
 .pull-left-17[
-👨🏻‍👩🏻‍👦🏻‍👦🏻 [@lmftca_ufpa](https://www.instagram.com/lmftca_ufpa/)
+
+```{r , echo=FALSE, fig.show='hold', out.width='90%', fig.align='center'}
+knitr::include_graphics('fig/Instag.png')
+```
+
+.center[.font80[**Instagram**: 👨🏻‍👩🏻‍👦🏻‍👦🏻 [@lmftca_ufpa](https://www.instagram.com/lmftca_ufpa/)
 ]
-
-
+]
+]
 
 ---
 layout: true
