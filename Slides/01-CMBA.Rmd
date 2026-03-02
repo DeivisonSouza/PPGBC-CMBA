@@ -60,8 +60,7 @@ library(ggimage)
 
 ```{r xaringan, echo=FALSE}
 
-use_scribble() # para escrever nos slides
-#use_share_again()
+use_scribble()                  # para escrever nos slides
 use_progress_bar()
 #use_animate_all(style = c("slide_down"))
 
@@ -69,9 +68,10 @@ use_extra_styles(
   hover_code_line = TRUE,         #<<
   mute_unhighlighted_code = TRUE  #<<
 )
-
-xaringanExtra::use_editable(expires = 1)
+use_tile_view()
+use_editable(expires = 1)
 use_clipboard()
+
 ```
 
 <!-- title-slide -->
