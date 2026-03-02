@@ -471,9 +471,26 @@ knitr::include_graphics('fig/foto/Deivison.jpeg')
 
 
 ---
-## 🌐 Redes Sociais
+## 🌐 Rede(s) Social(is) e Site
 
+<br>
 
+.pull-left-17[
+.center[.font90[.blue[🔍 **Laboratório de Manejo Florestal, Tecnologias e Comunidades Amazônicas - LMFTCA**]]]
+
+```{r , echo=FALSE, fig.show='hold', out.width='90%', fig.align='center'}
+knitr::include_graphics('fig/Site.png')
+```
+.center[.font80[**Acesse o site**: 🌎 [https://www.lmftca.com.br/](https://www.lmftca.com.br/)
+
+**Coordenador**: Deivison Venicio Souza
+]
+]
+]
+
+.pull-left-17[
+👨🏻‍👩🏻‍👦🏻‍👦🏻 [@lmftca_ufpa](https://www.instagram.com/lmftca_ufpa/)
+]
 
 
 
