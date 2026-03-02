@@ -61,7 +61,7 @@ library(ggimage)
 ```{r xaringan, echo=FALSE}
 
 use_scribble() # para escrever nos slides
-use_share_again()
+#use_share_again()
 use_progress_bar()
 #use_animate_all(style = c("slide_down"))
 
