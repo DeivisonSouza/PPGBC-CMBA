@@ -145,6 +145,10 @@ background-size: 200px, cover
 .center[.font90[.blue[*Pesquisas aplicadas à conservação e ao uso sustentável da biodiversidade na Amazônia!*]]]
 
 <br>
+
+.center[.font90[.green[A Amazônia é o nosso laboratório vivo!]]]
+
+<br>
 .center[🌳🐒🐠🐍]
 ]
 ]
@@ -318,7 +322,27 @@ knitr::include_graphics('fig/foto/Evandro.jpg')
 .shadow1[
 .font70[
 #### 📚 **Disciplina(s) no PPGBC**
-- Metodologia Científica - (.blue[**60h/4 créditos**])/(**Disciplina compartilhada**)
+- Redação Científica - (.blue[**60h/4 créditos**])/(**Disciplina compartilhada**)
+]
+]
+]
+
+---
+## 🌐 Rede(s) Social(is) e Site
+
+<br>
+.pull-left-17[
+🔍 .font90[.blue[**GEOMA - Laboratório de Geotecnologias Aplicadas ao Manejo de Recursos Naturais - UFPA**]] (**Integrante**)
+
+🔍 .font90[.blue[**Laboratório de Manejo de Florestas e Recursos Naturais na Caatinga - UFS **]] (**Coordenador**)
+]
+
+.pull-left-17[
+```{r , echo=FALSE, fig.show='hold', out.width='90%', fig.align='center'}
+knitr::include_graphics('fig/geoma.png')
+```
+
+.center[.font80[**Instagram**: 👨🏻‍👩🏻‍👦🏻‍👦🏻 [@lab.geoma](https://www.instagram.com/lab.geoma/)
 ]
 ]
 ]
@@ -502,6 +526,7 @@ knitr::include_graphics('fig/mosaico.png')
 
 
 .pull-left-17[
+<br>
 ```{r , echo=FALSE, fig.show='hold', out.width='90%', fig.align='center'}
 knitr::include_graphics('fig/Site.png')
 ```
@@ -511,11 +536,9 @@ knitr::include_graphics('fig/Site.png')
 ]
 
 .pull-left-17[
-
 ```{r , echo=FALSE, fig.show='hold', out.width='90%', fig.align='center'}
 knitr::include_graphics('fig/Instag.png')
 ```
-
 .center[.font80[**Instagram**: 👨🏻‍👩🏻‍👦🏻‍👦🏻 [@lmftca_ufpa](https://www.instagram.com/lmftca_ufpa/)
 ]
 ]
