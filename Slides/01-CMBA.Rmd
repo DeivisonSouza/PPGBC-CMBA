@@ -329,12 +329,14 @@ knitr::include_graphics('fig/foto/Evandro.jpg')
 
 ---
 ## 🌐 Rede(s) Social(is) e Site
-
 <br>
-.pull-left-17[
-🔍 .font90[.blue[**GEOMA - Laboratório de Geotecnologias Aplicadas ao Manejo de Recursos Naturais - UFPA**]] (**Integrante**)
+👨🏾‍🏫 .blue[**Evandro Ferreira da Silva**]
 
-🔍 .font90[.blue[**Laboratório de Manejo de Florestas e Recursos Naturais na Caatinga - UFS **]] (**Coordenador**)
+.pull-left-17[
+<br>
+🔍 .font80[.orange[**GEOMA - Laboratório de Geotecnologias Aplicadas ao Manejo de Recursos Naturais - UFPA**]] (**Integrante**)
+
+🔍 .font80[.orange[**Laboratório de Manejo de Florestas e Recursos Naturais na Caatinga - UFS **]] (**Coordenador**)
 ]
 
 .pull-left-17[
@@ -344,6 +346,29 @@ knitr::include_graphics('fig/geoma.png')
 
 .center[.font80[**Instagram**: 👨🏻‍👩🏻‍👦🏻‍👦🏻 [@lab.geoma](https://www.instagram.com/lab.geoma/)
 ]
+]
+]
+
+---
+## 👩‍🔬 Publicação científica
+
+<br>
+
+👨🏾‍🏫 .blue[**Evandro Ferreira da Silva**]
+
+.pull-left-4[
+```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap=''}
+knitr::include_graphics('fig/barros.png')
+```
+
+.center[.font80[**Acesse aqui**: [Barros et al., 2024](https://doi.org/10.1016/j.ecoinf.2024.102654)
+]
+]
+]
+
+.pull-right-4[
+.font80[
+**Objetivo**: .blue[Detectar e quantificar], usando dados .blue[LiDAR], .blue[alterações na estrutura florestal] (como remoção de copas, abertura de lacunas no dossel, impactos no sub-bosque, mudanças no perfil vertical da floresta e áreas afetadas em zonas de preservação) em áreas de concessão florestal .blue[após a exploração madeireira].
 ]
 ]
 
