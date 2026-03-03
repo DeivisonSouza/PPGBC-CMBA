@@ -627,19 +627,36 @@ knitr::include_graphics('fig/Instag.png')
 ]
 
 ---
-layout: true
-background-image: url(fig/deepflora2.png), url(fig/cont.png)
-background-position: 100% 50%
-background-size: 200px, cover
----
 ## 👩‍🔬 Publicação científica
 
-.pull-left-16[
-```{r, echo=FALSE, out.width='80%', fig.align='center', fig.cap=''}
+<br>
+
+👩🏻‍🏫 .blue[**Deivison Venicio Souza**]
+
+.pull-left-4[
+```{r, echo=FALSE, out.width='90%', fig.align='center', fig.cap=''}
 knitr::include_graphics('fig/paper.png')
 ```
 
-.center[.font80[**Acesse aqui**: [Gama et al., 2025](https://doi.org/10.3390/f16091374)]]
+.center[.font80[**Acesse aqui**: [Gama et al., 2025]( https://doi.org/10.3390/f16091374)
+
+<br>
+
+.center[.green[Reconhecimento Automático de Espécies Arbóreas Comerciais da Flora Amazônica Utilizando Imagens de Casca e Aprendizado por Transferência]]
+
+]
+]
+]
+
+.pull-right-4[
+.font70[
+- **Propósito da investigação**: .blue[Desenvolver e avaliar modelos de aprendizado de máquina] (tradicionais, transfer learning) para o .blue[reconhecimento automático de 16 espécies madeireiras] da flora amazônica utilizando .blue[imagens digitais da casca de árvores]. <br>
+__________________________
+- **Aspectos investigados**: .blue[2 métodos de extração] de características (Local Binary Patterns - LBP e redes pré-treinadas: ResNet50, VGG16, InceptionV3, MobileNetV2) combinados com 4 classificadores (SVM, ANN, RF e LDA), aplicados a imagens de casca em resolução original e subimagens (256 × 256 pixels). <br>
+__________________________
+- **Relevância do estudo**: Fornecer uma ferramenta .blue[automatizada e precisa] para .blue[identificação de espécies florestais] em censos de PMFS, visando .blue[reduzir erros taxonômicos], .blue[garantir a rastreabilidade] da cadeia produtiva da madeira e auxiliar no .blue[cumprimento da legislação ambiental] e na .blue[conservação da biodiversidade].
+
+]
 ]
 
 ---
