@@ -246,6 +246,38 @@ knitr::include_graphics('fig/foto/Diva.jpg')
 ]
 ]
 
+---
+## 👩‍🔬 Publicação científica
+
+<br>
+
+👩🏻‍🏫 .blue[**Diva Anelie de Araújo Guimaraes**]
+
+.pull-left-4[
+```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap=''}
+knitr::include_graphics('fig/braga.png')
+```
+
+.center[.font80[**Acesse aqui**: [Braga et al., 2025]( https://doi.org/10.1002/ar.70116)
+
+<br>
+
+.center[.green[Desenvolvimento gonadal em muçuãs (*Kinosternon scorpioides*) em ambiente controlado]]
+
+]
+]
+]
+
+.pull-right-4[
+.font70[
+- **Propósito da investigação**: Caracterizar o .blue[desenvolvimento gonadal do muçuã] (*Kinosternon scorpioides*) durante a fase embrionária, por meio da .blue[incubação artificial de ovos] em ambiente controlado. <br>
+__________________________
+- **Aspectos investigados**: Mudanças .blue[morfológicas e histológicas] ao longo do .blue[desenvolvimento embrionário], com ênfase na diferenciação sexual e nos padrões iniciais de maturação reprodutiva. <br>
+__________________________
+- **Relevância do estudo**: Fornecer subsídios para o .blue[manejo reprodutivo], .blue[conservação ex situ] e .blue[programas de criação] da espécie, contribuindo para estratégias de preservação e uso sustentável.
+
+]
+]
 
 ---
 ## 👩🏻‍🏫 Corpo Docente - Linha 2 (CMBA)
@@ -377,13 +409,23 @@ knitr::include_graphics('fig/barros.png')
 ```
 
 .center[.font80[**Acesse aqui**: [Barros et al., 2024](https://doi.org/10.1016/j.ecoinf.2024.102654)
+
+
+<br>
+
+.center[.green[Indicadores para Monitoramento da Exploração de Impacto Reduzido na Amazônia Brasileira Derivados da Tecnologia de Varredura a Laser Aerotransportado]]
+
 ]
 ]
 ]
 
 .pull-right-4[
-.font80[
-**Objetivo**: .blue[Detectar e quantificar], usando dados .blue[LiDAR], .blue[alterações na estrutura florestal] (como remoção de copas, abertura de lacunas no dossel, impactos no sub-bosque, mudanças no perfil vertical da floresta e áreas afetadas em zonas de preservação) em áreas de concessão florestal .blue[após a exploração madeireira].
+.font70[
+- **Propósito da investigação**: Propor e avaliar a aplicabilidade de .blue[cinco indicadores] para o .blue[monitoramento da Exploração de Impacto Reduzido (RIL)] em áreas sob concessão florestal na Amazônia brasileira, utilizando dados de LiDAR aerotransportado. <br>
+__________________________
+- **Aspectos investigados**: **1)** Detecção e identificação da .blue[remoção de copas em árvores] dominantes e codominantes acima de 30 m; **2)** Detecção de .blue[clareiras no dossel] florestal; **3)** Impactos da EIR no .blue[sub-bosque]; **4)** Mudanças no .blue[perfil vertical] do dossel; e **5)** Áreas afetadas dentro de .blue[APPs e áreas restritas]. <br>
+__________________________
+- **Relevância do estudo**: Fornecer uma .blue[metodologia eficiente e de baixo custo] para o monitoramento de atividades de manejo florestal na Amazônia (empresas concessionárias, órgãos de fiscalização).
 ]
 ]
 
