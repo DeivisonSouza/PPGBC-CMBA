@@ -119,6 +119,29 @@ background-image: url(fig/PPGBC.png), url(fig/cont.png)
 background-position: 99% 95%
 background-size: 200px, cover
 ---
+## 😀 Nossa conversa...
+
+<br>
+
+🌿 Linhas de Pesquisa do PPGBC
+
+👩‍🏫 Corpo Docente
+
+🏛️ Instituição de vínculo
+
+🎓 Formação acadêmica
+
+🔬 Área de atuação/pesquisa
+
+📚 Disciplinas ofertadas no PPGBC
+
+🧪 Laboratórios de pesquisa
+
+🌐 Redes sociais e sites
+
+📄 Publicações científicas em destaque
+
+---
 ## 👩🏾‍🔬 Linhas de Pesquisa
 
 <br><br>
@@ -197,6 +220,54 @@ background-size: 200px, cover
 ```{r , echo=FALSE, fig.show='hold', out.width='80%', fig.align='center'}
 knitr::include_graphics('fig/docentes.png')
 ```
+
+---
+## 👩🏻‍🏫 Corpo Docente - Linha 2 (CMBA)
+
+.pull-left-17[
+```{r , echo=FALSE, fig.show='hold', out.width='70%', fig.align='center'}
+knitr::include_graphics('fig/foto/Diego.jpg')
+```
+.font80[
+.center[.blue[**Diego Maia Zacardi**]]
+.center[Engenharia de Pesca/Instituto de Ciências e Tecnologia das Águas/UFOPA/Santarém]
+.center[[Currículo Lattes](https://lattes.cnpq.br/8348319991578546)]
+]
+]
+
+.pull-left-17[
+.shadow1[
+.font70[
+#### 🎓 **Formação Acadêmica**
+- Graduação em Engenharia de Pesca - UFRA (2005)
+- Mestrado em Ecologia Aquática e Aquicultura - UFPA/UFRA/EMBRAPA (2009)
+- Doutorado em Ecologia Aquática e Aquicultura - UFPA/UFRA/EMBRAPA (2014)
+]
+]
+]
+
+--
+
+.pull-left-17[
+.shadow1[
+.font70[
+#### 🔍 **Área(s) de Atuação**
+- Biodiversidade e conservação de recursos pesqueiros de águas interiores
+]
+]
+]
+
+--
+
+.pull-left-17[
+.shadow1[
+.font70[
+#### 📚 **Disciplina(s) no PPGBC**
+- Ecologia e Taxonomia de Comunidades Aquáticas - (.blue[**60h/4 créditos**])/(**Disciplina compartilhada**)
+]
+]
+]
+
 
 ---
 ## 👩🏻‍🏫 Corpo Docente - Linha 2 (CMBA)
@@ -519,7 +590,7 @@ knitr::include_graphics('fig/foto/Tommaso.jpg')
 .shadow1[
 .font70[
 #### 📚 **Disciplina(s) no PPGBC**
-- Ecologia e Taxonomia de Comunidades Aquáticas - (.blue[**60h/4 créditos**])/(**Disciplina compartilhada**)
+- Monitoramento Ambiental de Sistemas de Transposição de Peixes – STP (.blue[**45h/3 créditos**])
 ]
 ]
 ]
