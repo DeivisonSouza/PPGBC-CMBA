@@ -655,8 +655,6 @@ knitr::include_graphics('fig/foto/Deivison.jpeg')
 .font90[
 #### 🎓 **Deivison Venicio Souza**
 - DeepFlora - Inteligência Artificial para Reconhecer Árvores na Amazônia (**Coordenador**)
-- Papel da floresta amazônica no processo de adaptação e mitigação à mudança climática: ciclagens de água e carbono - ProA (**Integrante/INPA**)
-- INCT 3 - Madeiras da Amazônia (**Integrante/INPA**)
 ]
 ]
 ]
@@ -666,6 +664,28 @@ knitr::include_graphics('fig/foto/Deivison.jpeg')
 knitr::include_graphics('fig/mosaico.png')
 ```
 
+]
+
+---
+## 🔬 Projetos de Pesquisa - Linha 2 (CMBA)
+
+.pull-left-17[
+.shadow1[
+.font90[
+#### 🎓 **Deivison Venicio Souza**
+- Papel da floresta amazônica no processo de adaptação e mitigação à mudança climática: ciclagens de água e carbono - ProA (**Integrante/INPA**) - (**Coordenador: Niro Higuchi**)
+]
+]
+]
+
+.pull-left-17[
+```{r , echo=FALSE, fig.show='hold', out.width='60%', fig.align='center'}
+knitr::include_graphics('fig/ProA.jpg')
+```
+
+```{r , echo=FALSE, fig.show='hold', out.width='60%', fig.align='center'}
+knitr::include_graphics('fig/ProA2.jpg')
+```
 ]
 
 ---
